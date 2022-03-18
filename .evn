@@ -1,0 +1,10 @@
+#==============================================================================
+# File for enviromental variables
+#==============================================================================
+
+# MYSQL Parameters
+MYSQL_UNAME=MYSQL_USERNAME
+MYSQL_PWORD=MYSQL_PASSWORD
+
+# Directory to store the backup files
+BACKUP_DIR=/PATH/TO/STORE/BACKUP/FILES/
